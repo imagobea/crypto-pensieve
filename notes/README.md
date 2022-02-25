@@ -36,6 +36,7 @@ Mining, nonce... (?)
 - A contract is like class
 - View functions don't make a state change
 - All the solidity code gets compiled down to the EVM
+- Factory pattern (?)
 
 # About chainlink
 - Decentralised oracle network

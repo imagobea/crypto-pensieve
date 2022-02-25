@@ -30,5 +30,4 @@ contract SimpleStorage {
     }
 }
 
-
 // Rinkeby: 0xA364626Ea295F2eFF88F27aDD7670854505e9122
